@@ -16,3 +16,5 @@ nowy = foto.resize((round(foto.width/2)), round(foto.height/2))
 print('Nowy rozmiwar:', nowy.size)
 
 nowa_nazwa = 'srednplik.jpg'
+
+#t
